@@ -74,3 +74,5 @@ Ce projet est avant tout un journal d’apprentissage, mais toute suggestion ou 
 
 N’hésite pas à me contacter ou à échanger sur le Machine Learning 🚀
 
+
+![alt text](image.png)
